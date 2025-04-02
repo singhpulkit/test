@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "Singhpulkit-org"
+    organization = Singhpulkit-org
 
     workspaces {
-      name = "demo-workspace"
+      name = demo-workspace
     }
   }
 
